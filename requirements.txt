@@ -1,3 +1,2 @@
 audiocraft == 0.0.2
 streamlit == 0.79.0
-```
